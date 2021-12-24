@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-munna&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-munna" /> </p>
 
-- 🔭 I’m currently working on **wordpress theme camp**
+- 🔭 I’m currently working on **wordpress theme camp** 
+- 👀 I’m interested in learning new things!
+- 📫 How to reach me **ahmedmunna4200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
