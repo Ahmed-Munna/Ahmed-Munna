@@ -6,7 +6,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 - 👀 I’m interested in learning new things!
-- 📫 How to reach me **ahmedmunna4200@gmail.com**
+- 😄 Pronouns: He, Vau & Alien 👽
 
 ### Where to find me
 
